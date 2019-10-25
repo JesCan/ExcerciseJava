@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbac8403-cd41-462c-b2cd-9dfce2208951" name="Default Changelist" comment="" />
+    <list default="true" id="dbac8403-cd41-462c-b2cd-9dfce2208951" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Example05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab01/Example01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab01/Example01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab01/Example04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab01/Example04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example01.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1ShYAhjaTez0j4RDTm1LNsbrANF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -36,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example04">
+  <component name="RunManager" selected="Application.Example05">
     <configuration name="Example01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example01" />
       <module name="Lab01" />
@@ -58,8 +65,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Example04" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example04" />
+      <module name="Lab01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example05" />
       <module name="Lab01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,7 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example04" />
+        <item itemvalue="Application.Example05" />
         <item itemvalue="Application.Example03" />
         <item itemvalue="Application.Example02" />
         <item itemvalue="Application.Example01" />
@@ -85,10 +99,25 @@
       <option name="presentableId" value="Default" />
       <updated>1572017152866</updated>
       <workItem from="1572017154545" duration="6244000" />
+      <workItem from="1572027300070" duration="116000" />
+      <workItem from="1572035981672" duration="1050000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
