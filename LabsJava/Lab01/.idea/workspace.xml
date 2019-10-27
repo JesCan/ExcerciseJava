@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbac8403-cd41-462c-b2cd-9dfce2208951" name="Default Changelist" comment="Agregando ejercicio 5" />
+    <list default="true" id="dbac8403-cd41-462c-b2cd-9dfce2208951" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Caja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caja1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab01/Example01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab01/Example01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab01/Example02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab01/Example02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab01/Example03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab01/Example03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab01/Example04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab01/Example04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab01/Example05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab01/Example05.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +29,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1ShYAhjaTez0j4RDTm1LNsbrANF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,16 +49,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example05">
+  <component name="RunManager" selected="Application.caja1">
     <configuration name="Example01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example01" />
-      <module name="Lab01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example02" />
       <module name="Lab01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,15 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example04" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Example04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example04" />
       <module name="Lab01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example05" />
+    <configuration name="Example08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example08" />
+      <module name="Lab01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="caja1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="caja1" />
       <module name="Lab01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,10 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example05" />
-        <item itemvalue="Application.Example03" />
-        <item itemvalue="Application.Example02" />
+        <item itemvalue="Application.caja1" />
+        <item itemvalue="Application.Example08" />
+        <item itemvalue="Application.Example04" />
         <item itemvalue="Application.Example01" />
+        <item itemvalue="Application.Example03" />
       </list>
     </recent_temporary>
   </component>
@@ -93,9 +106,19 @@
       <option name="presentableId" value="Default" />
       <updated>1572017152866</updated>
       <workItem from="1572017154545" duration="6244000" />
-      <workItem from="1572027300070" duration="116000" />
-      <workItem from="1572035981672" duration="1291000" />
+      <workItem from="1572028674408" duration="1398000" />
+      <workItem from="1572053862300" duration="925000" />
+      <workItem from="1572062724057" duration="603000" />
+      <workItem from="1572207727588" duration="3321000" />
     </task>
+    <task id="LOCAL-00001" summary="Agregando un comentario desde mi casa.">
+      <created>1572029783688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572029783688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +138,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Agregando ejercicio 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregando ejercicio 5" />
+    <MESSAGE value="Agregando un comentario desde mi casa." />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregando un comentario desde mi casa." />
   </component>
 </project>
